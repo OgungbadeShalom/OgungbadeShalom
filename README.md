@@ -1,42 +1,82 @@
-### Hi there 👋 I'm Ogungbade Shalom
 
-I'm a passionate Full Stack Developer with a deep love for technology and coding. I thrive on transforming complex problems into elegant, efficient solutions. My expertise spans both front-end and back-end development, allowing me to build seamless, user-friendly applications from the ground up.
+<div align="center">
 
-#### 🚀 Skills and Technologies:
-- **Front-end:** HTML, CSS, JavaScript, React, Material Ui, Tailwind
-- **Back-end:** Node.js, Express, 
-- **Databases:** MongoDB, MySQL, PostgreSQL,
-- **Other Tools:** Git, GitHub, Webpack, Babel
+# 👋 Hi, I'm Ogungbade Shalom
 
-#### 💼 Professional Experience:
-With a basic background in software development, I have contributed to various projects, from small startups to large-scale enterprise applications. My roles often involve:
-- Designing and implementing responsive, user-centric web applications
-- Developing robust RESTful APIs and microservices
-- Collaborating with cross-functional teams to deliver high-quality software on time
-- Maintaining and optimizing codebases for performance and scalability
+**Founder, full-stack builder & automation engineer** — I turn scrappy ideas into  
+shipped products and put whole agencies on autopilot.
 
-#### 🌱 Continuous Learning:
-I believe in continuous learning and staying updated with the latest industry trends. Currently, I'm exploring:
-- Machine learning and AI
-- Advanced JavaScript frameworks
+📍 Nigeria • 🌍 Building for the world • ⚡ moving fast, shipping real
 
-#### 📫 Let's Connect:
-Feel free to reach out to me for collaborations, discussions, or just a friendly chat about tech!
-- **LinkedIn:** https://www.linkedin.com/in/ogungbade-shalom-904201289/
-- **Email:** Shallyboy2022@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ogungbade%20Shalom-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ogungbade-shalom-904201289/)  
+[![Email](https://img.shields.io/badge/Email-Shallyboy2022%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat)](mailto:Shallyboy2022@gmail.com)  
+![GitHub followers](https://img.shields.io/github/followers/OgungbadeShalom?style=flat&logo=github&label=Followers)
 
-#### 🌟 Fun Fact:
-When I'm not coding, you can find me exploring new technologies, reading tech blogs, or enjoying a good book.
+</div>
 
 ---
 
-### GitHub Stats
-![Ogungbade Shalom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## 🚀 What I actually do
+
+I'm not just a "full-stack developer" — I **build products and automate revenue**.  
+My real work is a mix of:
+
+- **AI job-application agency** — a multi-tenant pipeline that scrapes 15+ job  
+  boards, AI-tailors every resume to the job description, and submits applications  
+  autonomously. (1-per-company, 100% remote-US filtered, fully tracked.)  
+- **Self-hosted infrastructure on a $4/mo VPS** — I run production Node + Postgres,  
+  reverse proxies, tunnels, scrapers, and cron ecosystems on a single cheap box.  
+- **Pluck** — my own scraping API that extracts emails, phones, socials, and meta  
+  from any URL so my systems never depend on paid lead-enrichment services.  
+- **Nigerian starter rotation** — I keep finding gaps and shipping MVPs for them.
+
+I'm allergic to paying for tools I can build myself. My stack is "$0 or die."
 
 ---
 
-Let's build the future, one line of code at a time!
+## 🛠️ The stack I actually use
 
- 
+| Layer | Tools |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, Tailwind, Material UI, HTML, CSS |
+| **Backend** | Node.js, Express, Hono, Python, FastAPI |
+| **Databases** | PostgreSQL, MongoDB, MySQL, SQLite |
+| **Automation & AI** | Python scrapers, Crafted LLM pipelines, cron systems, headless browsers |
+| **Cloud / Infra** | `$4/mo Hetzner VPS`, self-hosted Docker, cloudflare tunnels, PM2 |
+| **Other** | Git, GitHub, Webpack, Babel, REST APIs, microservices |
 
- 
+> I design products to run on a shoestring. Everything above works on a single  
+> $4/month VPS — including multi-tenant SaaS and automated job submission.
+
+---
+
+## 🏗️ Notable projects
+
+| Project | What it is |
+|---|---|
+| **Job Application Agency** · *TypeScript* | Multi-tenant AI job pipeline — scrapes boards, AI-tailors CVs, auto-submits, tracks every application per client. |
+| **JobSpy** · *Python* | Scalable job-board scraper for LinkedIn, Indeed, Glassdoor, and more. |
+| **Pluck** · *Python* | Free, self-hosted URL scraper for emails, phones, socials, and metadata — replaces paid lead enrichment. |
+| **Pitchr (MVP)** · *TypeScript* | AI proposal generator for Nigerian freelancers on Upwork. |
+| **BidPro** · *HTML* | Client-acquisition & job-bidding agency tool. |
+| **OBDMS** · *JavaScript* | Online Blood Donation Management System. |
+| **Portfolio** · *JavaScript* | My personal portfolio site. |
+
+---
+
+## 🧠 How I think
+
+- **"Move fast and ship"** — I'd rather ship an imperfect thing today than a perfect  
+  thing next month.  
+- **Build it yourself** — if a paid SaaS exists, I'll probably build a $0 version  
+  of it first.  
+- **Automate the boring stuff** — job hunting, lead gen, outreach, uptime  
+  monitoring... if it happens every day, it runs on a cron.  
+- **$0 budget, maximum output** — I've learned to do serious things with almost  
+  nothing.
+
+---
+
+## 🎓 Background
+
+- **B.Sc. Software Engineering** — Babcock University, Nigeria
