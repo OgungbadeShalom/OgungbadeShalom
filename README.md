@@ -9,7 +9,7 @@ shipped products and put whole agencies on autopilot.
 📍 Nigeria • 🌍 Building for the world • ⚡ moving fast, shipping real
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ogungbade%20Shalom-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ogungbade-shalom-904201289/)  
-[![Email](https://img.shields.io/badge/Email-Shallyboy2022%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat)](mailto:Shallyboy2022@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-badeshalom%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat)](mailto:badeshalom@gmail.com)  
 ![GitHub followers](https://img.shields.io/github/followers/OgungbadeShalom?style=flat&logo=github&label=Followers)
 
 </div>
